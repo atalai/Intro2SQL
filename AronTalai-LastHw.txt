@@ -597,10 +597,3 @@ union
 
 select count(stars) as number_of_stars,avg(stars) as average_number_of_stars,sum(stars) as total_number_of_stars
 from business where state ="ON" and name like "%Japan%" and is_open=1
-
-
-
-
-The output is rather convoluted and the analysis does not seem to produce the required elements for deriving a conclusion. I liked the code it self but maybe limit your analysis based on a few indicators for this course. good job.
-
-No comments were seen for the very last part. This section desperately needed comments to make sense of the code. Not a good idea to submit in docx form as the course clearly states to use pdf. it took me a long time to check your code due to inconsistent indention.
